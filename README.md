@@ -16,3 +16,5 @@ Follow these steps to get your project up and running:
    ```bash
    git clone <repository-url>
    cd <project-directory>
+   npm install
+   npm run dev
