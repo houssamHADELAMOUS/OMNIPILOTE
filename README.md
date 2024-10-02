@@ -1,9 +1,18 @@
-# React + Vite
+# OMNIPILOTE - React + Vite + Tailwind CSS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a minimal setup to get React working with Vite, Tailwind CSS, and HMR (Hot Module Replacement) for a smooth development experience. It includes some ESLint rules to ensure code quality and consistency.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# OMNIPILOTE
+- **Fast Development**: Vite offers fast hot module replacement (HMR) for a smooth development experience.
+- **Tailwind CSS**: Utility-first CSS framework for rapidly building custom designs.
+- **ESLint**: Configured to enforce code quality and consistency across the codebase.
+
+## Installation
+
+Follow these steps to get your project up and running:
+
+1. **Clone the repository:**
+   ```bash
+   git clone <repository-url>
+   cd <project-directory>
